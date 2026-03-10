@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science B.S Junior at CSU Fresno - Go Dogs!🐶
-
+Computer Science B.S Junior at CSU Fresno 🐶
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alessandroheaney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-heaney) 
